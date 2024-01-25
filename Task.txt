@@ -7,6 +7,7 @@ Have skills in JAVA, DevOps, Web-Devlopment.
 - springboot
 - spring framework
 - micro profile
+- Git
 
 TASK
 
